@@ -6,11 +6,11 @@ Install [Python 2.7.10](https://www.python.org/downloads/release/python-2710/)
 Install [Virtualenvwrapper](http://virtualenvwrapper.readthedocs.org/en/latest/index.html)
 
 # Installation
-git clone git@github.com:markbennettjr/pgd_001.git
+git clone git@github.com:markbennettjr/pgd_002.git
 
 mkvirtualenv pgd
 
-cd pgd_001
+cd pgd_002
 
 pip install -r requirements.txt
 
